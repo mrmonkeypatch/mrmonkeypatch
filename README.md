@@ -3,7 +3,7 @@
 
 
 <div style="text-align: center;">
-         <img width="200" src="assets/images/T-Systems-logo.png">
+         <img width="100" src="assets/images/T-Systems-logo.png">
       </div>
 
   
