@@ -1,5 +1,7 @@
 ## Hi there
 - I'm currently working as a **Data Storage Administrator at T-Systems do Brasil**, focused on SAN and NAS infraestructures. My day-to-day involves managing block (HDS VSP), object storage (HDS HCP) and filesystems shares (HDS HNAS / Dell Unity), as well as SAN fabrics with Brocade switches.
+![T-Systems Logo]()
+  
   In my spare time, I'm developing a space baseball game called *Line Drive* (not public yet).
 
 - I'm studying at *Universidade Federal do ABC (UFABC)*, pursuing a bachelor's degree in **Science and Technology and Computer Science**.
