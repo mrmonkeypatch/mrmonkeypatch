@@ -4,9 +4,10 @@
   :technologist: My day-to-day involves managing block (HDS VSP), object storage (HDS HCP) and filesystems shares (HDS HNAS / Dell Unity), as well as SAN fabrics with Brocade switches.
 
 
-<div style="text-align: center;">
-         <img width="100" src="assets/images/T-Systems-logo.png">
-      </div>
+  <div style="text-align: center;">
+           <img width="100" src="assets/images/T-Systems-logo.png">
+           <img width="100" src="assets/images/UFABC-logo.png">
+  </div>
 
   
   In my spare time, I'm developing a space :baseball: game called *Line Drive* (not public yet).
