@@ -1,5 +1,7 @@
-## Hi there
-- I'm currently working as a **Data Storage Administrator at T-Systems do Brasil**, focused on SAN and NAS infraestructures. My day-to-day involves managing block (HDS VSP), object storage (HDS HCP) and filesystems shares (HDS HNAS / Dell Unity), as well as SAN fabrics with Brocade switches.
+## Hello There :vulcan_salute:
+- I'm currently working as a **Data Storage Administrator at T-Systems do Brasil**, focused on SAN and NAS infraestructures.
+  
+  :technologist: My day-to-day involves managing block (HDS VSP), object storage (HDS HCP) and filesystems shares (HDS HNAS / Dell Unity), as well as SAN fabrics with Brocade switches.
 
 
 <div style="text-align: center;">
@@ -7,9 +9,9 @@
       </div>
 
   
-  In my spare time, I'm developing a space baseball game called *Line Drive* (not public yet).
+  In my spare time, I'm developing a space :baseball: game called *Line Drive* (not public yet).
 
-- I'm studying at *Universidade Federal do ABC (UFABC)*, pursuing a bachelor's degree in **Science and Technology and Computer Science**.
+- I'm studying at *Universidade Federal do ABC (UFABC)*, pursuing a bachelor's degree in **Science and Technology and Computer Science** :man_student:.
    
 - I’m currently learning ReactJS and improving my computer networking and OS skills (Oracle Linux).
 
