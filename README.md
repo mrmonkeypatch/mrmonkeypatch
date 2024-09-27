@@ -6,7 +6,7 @@
 
   <div style="text-align: center;">
            <img width="100" src="assets/images/T-Systems-logo.png">
-           <img width="100" src="assets/images/UFABC-logo.png">
+           <img width="114" src="assets/images/UFABC-logo.png">
   </div>
 
   
