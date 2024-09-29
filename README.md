@@ -1,4 +1,4 @@
-## Hello There :vulcan_salute:
+## Hello There
 - I'm currently working as a **Data Storage Administrator at T-Systems do Brasil**, focused on SAN and NAS infraestructures.
   
   :technologist: My day-to-day involves managing block (HDS VSP), object storage (HDS HCP) and filesystems shares (HDS HNAS / Dell Unity), as well as SAN fabrics with Brocade switches.
